@@ -1,0 +1,16 @@
+baseURL = "https://gunzf0x.github.io"
+languageCode = "en-us"
+theme = "glim-midnight"
+
+[params]
+    title = "gunzf0x"
+    phrases = ["Astronomy", "Ethical Hacking", "Pentesting" ,"Programming", "THE GAME"]
+    links = [
+    {name = "Pentesting", url = "/pentesting/"},    
+    {name = "Astronomy", url = "/astronomy/"},    
+    {name = "Github", url = "https://github.com/gunzf0x"},    
+    {name = "LinkedIn", url = "https://www.linkedin.com/in/francisco-carrasco-varela-cl/"},    
+    {name = "HTB Profile", url = "https://app.hackthebox.com/profile/983574"},    
+    {name = "Contact Me", url = "mailto:ffcarrasco@uc.cl"},
+    ] 
+    background = "bg.mp4"
